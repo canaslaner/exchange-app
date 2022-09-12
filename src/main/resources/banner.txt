@@ -1,0 +1,11 @@
+${Ansi.RED}         _     _
+${Ansi.RED}        | |   (_)
+${Ansi.RED}   __ _ | | __ _  _ __    ___   _ __
+${Ansi.RED}  / _` || |/ /| || '_ \  / _ \ | '_ \
+${Ansi.RED} | (_| ||   < | || | | || (_) || | | |
+${Ansi.RED}  \__,_||_|\_\|_||_| |_| \___/ |_| |_|
+
+${Ansi.RED}
+** Spring Boot ${spring-boot.version}
+** Application '${spring.application.name}' is starting
+${Ansi.DEFAULT}
